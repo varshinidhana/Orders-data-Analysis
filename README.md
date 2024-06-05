@@ -1,8 +1,10 @@
-Retail Data Processing & Analysis Project:
+Retail Data Processing & Analysis Project
 This project focuses on processing and analyzing retail data using Python and SQL. 
 The goal is to clean the data, load it into a SQL Server database, and perform SQL queries to extract valuable business insights.
+
 Tools & Technologies:
 Python ,Pandas ,SQL Server & SQLAlchemy
+
 Key Activities
 Data Cleaning:Cleaned retail data using Pandas to ensure accuracy and consistency.
 Data Loading:
